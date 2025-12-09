@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  margin: 30px;
+}
+
+#pca, #umap {
+  width: 90%;
+  height: 400px;
+  margin-bottom: 40px;
+}
